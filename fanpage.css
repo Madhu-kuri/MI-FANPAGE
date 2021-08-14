@@ -1,0 +1,39 @@
+body{
+    color: darkgrey;
+}
+
+h1{
+    text-align: center;
+    color: teal;
+}
+#aaa{
+    margin: 3% 5% 2% 15%;
+    height: 500px;
+    width: 600px;
+}
+p{
+    margin-left: 3%;
+    color: #202020;
+    font-size: 20px;
+}
+h3{
+    margin-left: 4%;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 23px;
+}
+a{
+    color: blue;
+    cursor: pointer;
+}
+#sur{
+    height: 300px;
+    width: 400px;
+    margin-right: 5%;
+}
+i{
+    font-size: 20px;
+    color: #202020;
+}
+
+
